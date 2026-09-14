@@ -1,0 +1,5 @@
+tmp_trainer/
+*.bak
+*.bak2
+__pycache__/
+.ipynb_checkpoints/
